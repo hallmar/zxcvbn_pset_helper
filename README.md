@@ -1,5 +1,8 @@
 # zxcvbn_pset_helper
-Simple Python program that migrates zxcvbn 2.0.0 psets over to zxcvbn 3.0.0 psets.
+Simple Python3 program that migrates zxcvbn 2.0.0 psets over to zxcvbn 3.0.0 psets.
+It should work with Python2 as well, haven't tested it though.
+
+When you've installed [Python](https://www.python.org/downloads/) you just open cmd, navigate to the zxcvbn_pset_helper folder and type in ```py pset_helper.py```
 
 
 It was shamelessly written by OpenAI prompts since it's a boring job that I don't really want to spend hours on :)
